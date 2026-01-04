@@ -9,3 +9,9 @@ conda activate mchatbot
 ```
 
 
+pip install langchain_pinecone
+
+pip install -U langchain-huggingface
+
+
+conda install -c conda-forge ipywidgets tqdm
